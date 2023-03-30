@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <a href="#what-is-facil">What is MSc-iNCD</a> •
+  <a href="#what-is-mscincd">What is MSc-iNCD</a> •
   <a href="#key-features">Key Features</a> •
   <a href="#license">License</a> •
   <a href="#cite">Cite</a>
