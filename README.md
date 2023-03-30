@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <a href="#introduction">What is MSc-iNCD</a> •
+  <a href="#introduction">Intro</a> •
   <a href="#key-features">Key Features</a> •
   <a href="#license">License</a> •
   <a href="#cite">Cite</a>
@@ -24,7 +24,7 @@ This Github repository first presents the PyTorch implementation for the paper (
 
 ![](figures/setting_h.jpg)
 
-Code coming soon ☘️
+## Code coming soon ☘️
 
 ## Introduction
 A flexible modular PyTorch repository for the MSc-iNCD task, allowing for easy replication and adoption of not only our baselines,
