@@ -24,7 +24,7 @@ This Github repository first presents the PyTorch implementation for the paper (
 
 ![](figures/setting_h.jpg)
 
-###Code coming soon ☘️
+Code coming soon ☘️
 
 ## What is MSc-iNCD
 A flexible modular PyTorch repository for the MSc-iNCD task, allowing for easy replication and adoption of not only our baselines,
