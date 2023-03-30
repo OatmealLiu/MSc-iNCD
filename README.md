@@ -5,10 +5,10 @@
 ---
 
 <p align="center">
-  <a href="#what-is-mscincd">What is MSc-iNCD</a> •
+  <a href="#introduction">What is MSc-iNCD</a> •
   <a href="#key-features">Key Features</a> •
   <a href="#license">License</a> •
-  <a href="#citee">Cite</a>
+  <a href="#cite">Cite</a>
 </p>
 </div>
 
@@ -26,7 +26,7 @@ This Github repository first presents the PyTorch implementation for the paper (
 
 Code coming soon ☘️
 
-## What is MSc-iNCD
+## Introduction
 A flexible modular PyTorch repository for the MSc-iNCD task, allowing for easy replication and adoption of not only our baselines,
 but also typical Incremental Learning (IL), Novel Class Discovery (NCD), and class-incremental Novel Class Discovery (class-iNCD) methods that adapted to the new setting. 
 It supports representative NCD (RankStats, OCRA, Sinkhorn+Swap) and IL (EwC, LwF, DER, CosNorm) 
