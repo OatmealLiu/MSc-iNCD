@@ -26,9 +26,9 @@ Please check the MIT license that is listed in this repository.
 If you find our framework or paper useful, please cite:
 
 ```bibtex
-@article{Liu2023LargescalePM,
-  title={Large-scale Pre-trained Models are Surprisingly Strong in Incremental Novel Class Discovery},
-  author={Mingxuan Liu and Subhankar Roy and Zhun Zhong and Nicu Sebe and Elisa Ricci},
+@article{liu2023large,
+  title={Large-scale pre-trained models are surprisingly strong in incremental novel class discovery},
+  author={Liu, Mingxuan and Roy, Subhankar and Zhong, Zhun and Sebe, Nicu and Ricci, Elisa},
   journal={arXiv preprint arXiv:2303.15975},
   year={2023}
 }
