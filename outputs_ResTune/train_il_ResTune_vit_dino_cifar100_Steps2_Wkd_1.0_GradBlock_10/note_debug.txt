@@ -1,0 +1,2 @@
+Problem: CUDA out of memory
+Solution: reduce batch size from 128 to 64
